@@ -1,6 +1,5 @@
 # testmarkdown
 
-{#no_name}
+# No Name
 
-
-[hidden anchor](#no_name}
+[hidden anchor](#noname}
