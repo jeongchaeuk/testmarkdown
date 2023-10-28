@@ -2,7 +2,7 @@
 
 # Title
 
-{#Title2}
+<a name='Title2'></a>
 
 The following is a list of all the constants (from [pygame.locals][2]) used to represent keyboard keys.
 
@@ -167,6 +167,6 @@ The keyboard also has a list of modifier states (from [pygame.locals][2]) that c
     KMOD_MODE     AltGr
 
 aaa
-[hidden anchor](#Title2)
+[hidden anchor](Title2)
 
 
