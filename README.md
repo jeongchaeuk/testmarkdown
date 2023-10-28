@@ -6,6 +6,8 @@
 
 <a id='title3'></a>
 
+{#title4}
+
 The following is a list of all the constants (from [pygame.locals][2]) used to represent keyboard keys.
 
     pygame
@@ -172,6 +174,8 @@ aaa
 [hidden anchor]
 
 <a href='#title3'>hidden anchor</a>
+
+<a href='#title4'>hidden anchor</a>
 
 
 
