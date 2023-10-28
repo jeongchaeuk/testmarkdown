@@ -4,7 +4,7 @@
 
 # Title2
 
-<a id='x'>X</a>
+<a id='title3'></a>
 
 The following is a list of all the constants (from [pygame.locals][2]) used to represent keyboard keys.
 
@@ -171,7 +171,7 @@ The keyboard also has a list of modifier states (from [pygame.locals][2]) that c
 aaa
 [hidden anchor]
 
-<a href='#x'>hidden anchor</a>
+<a href='#title3'>hidden anchor</a>
 
 
 
