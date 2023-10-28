@@ -2,7 +2,7 @@
 
 # Title
 
-<a name='#Title2'></a>
+{#Title2}
 
 The following is a list of all the constants (from [pygame.locals][2]) used to represent keyboard keys.
 
