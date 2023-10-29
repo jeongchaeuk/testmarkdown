@@ -52,3 +52,5 @@ The `buffer` argument controls the number of internal samples used in the sound 
 It can be lowered to reduce latency, but sound dropout may occur.  
 It can be raised to larger values to ensure playback never skips, but it will impose latency on sound playback.  
 The buffer size must be a **power of two** (if not it is rounded up to the next nearest power of 2).
+
+[1]:https://www.pygame.org/docs/ref/mixer.html
